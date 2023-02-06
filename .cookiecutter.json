@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/lucas/dev",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Lucas Vieira dos Santos",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "lucas6eng@gmail.com",
+  "friendly_name": "Funda Find",
+  "github_user": "iamlucassantos",
+  "license": "MIT",
+  "package_name": "funda_find",
+  "project_name": "funda-find",
+  "version": "0.1.0"
+}
